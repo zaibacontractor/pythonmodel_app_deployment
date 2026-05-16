@@ -1,6 +1,4 @@
-Need the following lobs:
-
-sklearn - 1.8.0
+scikit-learn == 1.8.0
 numpy
 pandas
 streamlit
